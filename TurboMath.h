@@ -2,7 +2,7 @@
 
 #include "math-lib-ex/CustomMath.h"
 
-class TurboMath : math_lib_ex::CustomMath
+class TurboMath : public math_lib_ex::CustomMath
 {
 public:
 	TurboMath();
