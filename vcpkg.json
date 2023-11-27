@@ -1,0 +1,9 @@
+{
+	"name": "turbo-math",
+	"version": "1.0.0",
+	"description": "A simple math dependency example",
+	"homepage": "https://github.com/dillanesorenes/turbo-math",
+	"dependencies": [
+		"math-lib-ex"
+	]
+}
